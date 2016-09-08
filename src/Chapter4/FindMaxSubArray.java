@@ -1,7 +1,5 @@
 package Chapter4;
 
-import java.util.List;
-
 /**
  * 分治策略求解最大子数组问题
  * @author zgwang
